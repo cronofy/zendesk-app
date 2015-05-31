@@ -1,0 +1,12 @@
+{
+  "name": "Zendesk Calendar Connector",
+  "author": {
+    "name": "Cronofy",
+    "email": "support@cronofy.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": ["nav_bar"],
+  "version": "1.0",
+  "frameworkVersion": "1.0"
+}

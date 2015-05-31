@@ -1,0 +1,13 @@
+{
+  "app": {
+    "package": "zendesk_calendar_connector",
+    "description": {
+      "value": "Synchronize your Zendesk tasks with your calendar so you never forget a thing.",
+      "title": "Zendesk Calendar Connector"
+    },
+    "name": {
+      "value": "Zendesk Calendar Connector",
+      "title": "app name"
+    }
+  }
+}
